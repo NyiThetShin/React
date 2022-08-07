@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+:root{
+    --primary-bg-color                      : #0f1830;
+    --primary-txt-color                     : #fff;
+    --primary-font-size                     : 20px;
+    --primary-padding                       : 5px;
+    --primary-border-radius                 : 5px;
+    --primary-border                        : 1px solid black;
+    --primary-box-shadow                    : 2px 2px 2px black;
+    --secondary-box-shadow                  : 0 0 5px black;
+    --secondary-border-radius               : 10px;
+    --secondary-padding                     : 10px;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    width: 100%;
+    height: 100vh;
+}
+
+
+
+
+
+
+
+
+
