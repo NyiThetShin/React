@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.d213cf53.css",
+    "main.js": "/React/static/js/main.43f2aeb3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/michael-warf-f8egRYt5RGk-unsplash.jpg": "/React/static/media/michael-warf-f8egRYt5RGk-unsplash.cded352a81aba654d705.jpg",
+    "static/media/chastity-cortijo-R-w5Q-4Mqm0-unsplash.jpg": "/React/static/media/chastity-cortijo-R-w5Q-4Mqm0-unsplash.2f2782889894f9e87c57.jpg",
+    "static/media/jean-philippe-delberghe-feijc-nqWKM-unsplash.jpg": "/React/static/media/jean-philippe-delberghe-feijc-nqWKM-unsplash.205d2c9b0def37d91d5c.jpg",
+    "static/media/andrea-davis-Hggo81-zgxE-unsplash.jpg": "/React/static/media/andrea-davis-Hggo81-zgxE-unsplash.f652826e6ecc6b30ec74.jpg",
+    "static/media/minh-pham-OtXADkUh3-I-unsplash.jpg": "/React/static/media/minh-pham-OtXADkUh3-I-unsplash.2985ef9352c2c6f9451b.jpg",
+    "static/media/david-van-dijk-3LTht2nxd34-unsplash.jpg": "/React/static/media/david-van-dijk-3LTht2nxd34-unsplash.ebcf30d82f2780f3e87e.jpg",
+    "static/media/collov-home-design--aDGbdTsBZg-unsplash.jpg": "/React/static/media/collov-home-design--aDGbdTsBZg-unsplash.ed93a683a1695f08c33a.jpg",
+    "static/media/phillip-goldsberry-fZuleEfeA1Q-unsplash.jpg": "/React/static/media/phillip-goldsberry-fZuleEfeA1Q-unsplash.6427d3dac98d4bde9e67.jpg",
+    "static/media/sidekix-media-5O-KFVmKSjY-unsplash.jpg": "/React/static/media/sidekix-media-5O-KFVmKSjY-unsplash.b6ef99307f0bbad5e44e.jpg",
+    "static/media/hannah-busing-nME9TubZtSo-unsplash.jpg": "/React/static/media/hannah-busing-nME9TubZtSo-unsplash.11fd2a0e9b18539973dc.jpg",
+    "static/media/muhammad-asyfaul-f2tNsobMisQ-unsplash.jpg": "/React/static/media/muhammad-asyfaul-f2tNsobMisQ-unsplash.b0931635670c9e3469b8.jpg",
+    "static/media/jcb.png": "/React/static/media/jcb.66e1d5436fb2d4287ba3.png",
+    "static/media/R.jpg": "/React/static/media/R.aaa2baa4c92304e608f9.jpg",
+    "static/media/living-room.png": "/React/static/media/living-room.da54e0c0a1c8628358ed.png",
+    "index.html": "/React/index.html",
+    "main.d213cf53.css.map": "/React/static/css/main.d213cf53.css.map",
+    "main.43f2aeb3.js.map": "/React/static/js/main.43f2aeb3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d213cf53.css",
+    "static/js/main.43f2aeb3.js"
+  ]
+}
